@@ -1,6 +1,6 @@
 # PromoGen
 
-PromoGen is a tool designed to generate nitro promos using OperaGX.
+PromoGen is a tool designed to generate nitro promos by abusing OperaGX's api.
 
 ## Usage
 
