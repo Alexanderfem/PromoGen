@@ -37,3 +37,9 @@ Make sure you have Go installed on your machine.
 ## License
 
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions, suggestions, or issues, feel free to get in touch:
+
+- Discord: [discord.gg/debug](https://discord.gg/debug)
