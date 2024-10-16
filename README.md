@@ -1,3 +1,7 @@
+
+# !! PATCHED !!
+
+
 # PromoGen
 
 PromoGen is a tool designed to generate nitro promos by abusing OperaGX's api.
@@ -38,7 +42,7 @@ Make sure you have Go installed on your machine.
 
 If you have any questions, suggestions, or issues, feel free to get in touch:
 
-- Discord: [discord.gg/debug](https://discord.gg/debug)
+- ~~Discord: [discord.gg/debug](https://discord.gg/debug)~~
 
 ## License
 
